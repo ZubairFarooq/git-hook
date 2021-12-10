@@ -1,0 +1,1 @@
+I have enabled now all the hooks of github using javascript.
